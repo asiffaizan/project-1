@@ -26,3 +26,11 @@ h1{
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+.link-button {
+	background-image: linear-gradient(45deg, lightSalmon,tomato);
+	text-decoration: navajowhite;
+	padding: 7px 30px;
+	color: white;
+	border-radius: 5px;
+	font-weight: 500;
+}
